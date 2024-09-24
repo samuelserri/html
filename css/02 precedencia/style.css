@@ -1,0 +1,14 @@
+/* selecionar css por classe */
+
+.titulo {
+    font-size: 20px;
+    color: rgb(236, 10, 55);
+
+}
+
+.paragrafo{
+    font-size: 16px;
+    color: aqua;
+    
+
+}
